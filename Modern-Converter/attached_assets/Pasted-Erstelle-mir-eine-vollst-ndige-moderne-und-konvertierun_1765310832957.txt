@@ -1,0 +1,148 @@
+Erstelle mir eine vollständige, moderne und konvertierungsstarke Affiliate-Deal-Website, die Produkte aus verschiedenen Partnerprogrammen vorstellt (Amazon Partnerprogramm, eBay Partner Network, Digistore24, Awin, AliExpress Affiliate usw.).
+Die Website soll so aufgebaut sein, dass ich später nur noch die Affiliate-Links einfügen muss und Besucher automatisch über die Buttons weitergeleitet werden.
+
+🎯 Ziel der Website:
+
+Besucher sollen Deals, Rabattprodukte und Trendprodukte finden
+
+Ich teile nur einen Link (z. B. auf TikTok, Instagram, WhatsApp)
+
+Besucher klicken auf die Angebote
+
+Ich verdiene Affiliate-Provisionen
+
+100% legal, seriös und übersichtlich
+
+🏗️ Struktur der Website:
+
+Erstelle folgende Seiten/Abschnitte:
+
+Startseite (Home)
+
+Großes Hero-Banner
+
+CTA: “Jetzt die besten Deals sehen”
+
+Kurze Erklärung, wie die Seite funktioniert
+
+Vorteile für den Nutzer
+
+Kategorienübersicht
+
+Deals des Tages
+
+Liste der besten tagesaktuellen Deals
+
+Platz für Produktbild, Titel, Kurzbeschreibung, Originalpreis, Angebotspreis, Ersparnis
+
+Button: “Zum Angebot” (Affiliate-Link Platzhalter)
+
+Kategorien
+Erstelle Kategorien mit jeweils 6–12 Beispielprodukten:
+
+Elektronik
+
+Gaming & Zubehör
+
+Haushalt & Küche
+
+Beauty & Pflege
+
+Fitness & Gesundheit
+
+Kleidung & Accessoires
+
+Trending TikTok Products
+
+Geschenke & Gadgets
+
+Produktdetail-Templates
+Für jedes Produkt:
+
+Produktname
+
+Kurze, verkaufsstarke Beschreibung
+
+Liste der Vorteile
+
+Originalpreis vs. Angebotspreis
+
+Spar-Prozentsatz
+
+“Zum Angebot”-Button
+
+Blog-Bereich (optional)
+
+SEO-optimierte Artikel
+
+Themen: Deals, Spartipps, Produktvergleiche, Ratgeber
+
+Kontakt-Seite
+
+Legal-Seiten
+
+Impressum
+
+Datenschutzerklärung
+
+Affiliate-Disclaimer: “Als Teilnehmer an Partnerprogrammen verdiene ich an qualifizierten Verkäufen.”
+
+🎨 Design:
+
+Modern
+
+Minimalistisch
+
+Smartphone-optimiert
+
+Große Bilder
+
+Hervorgehobene Rabatt-Badges (-40%, -60%, etc.)
+
+Einheitliches Farbkonzept (z. B. Schwarz + Weiß + Akzentfarbe Neon-Grün)
+
+📈 SEO:
+
+Meta-Titel & Meta-Beschreibung für jede Seite erstellen
+
+Keyword-Optimierung für:
+
+Deals
+
+Rabatt
+
+Angebote
+
+Bestseller
+
+Sparen
+
+Trend Produkte
+
+Schema Markup für Produkte hinzufügen
+
+🔥 Conversion-Elemente:
+
+“Top Deal heute”
+
+“Nur noch wenige verfügbar”
+
+“Letzte Chance”
+
+Countdown für Zeit-Deals
+
+Trust-Elemente: “Wir finden die besten Angebote für dich”
+
+📌 Bitte liefere:
+
+Kompletten Website-Entwurf (alle Texte & Struktur)
+
+Beispielprodukte mit Dummy-Links
+
+Designvorschläge
+
+Mobile-optimierte Version
+
+HTML-/Section-Blöcke (falls möglich)
+
+Erstelle das Ganze so, als würdest du eine professionelle Affiliate-Deal-Website für mich komplett fertig machen.
