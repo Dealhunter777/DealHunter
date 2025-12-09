@@ -1,1 +1,1 @@
-Assets folder for images.
+Assets folder
